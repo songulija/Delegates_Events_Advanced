@@ -1,0 +1,16 @@
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.csproj.AssemblyReference.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.AssemblyInfoInputs.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.AssemblyInfo.cs
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.exe
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.deps.json
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.runtimeconfig.json
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.runtimeconfig.dev.json
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.dll
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\net5.0\DelegatesAndEvents.pdb
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.dll
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\refint\DelegatesAndEvents.dll
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.pdb
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\DelegatesAndEvents.genruntimeconfig.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\net5.0\ref\DelegatesAndEvents.dll

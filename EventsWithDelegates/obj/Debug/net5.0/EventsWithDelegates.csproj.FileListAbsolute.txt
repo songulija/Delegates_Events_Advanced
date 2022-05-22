@@ -1,0 +1,16 @@
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\bin\Debug\net5.0\EventsWithDelegates.exe
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\bin\Debug\net5.0\EventsWithDelegates.deps.json
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\bin\Debug\net5.0\EventsWithDelegates.runtimeconfig.json
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\bin\Debug\net5.0\EventsWithDelegates.runtimeconfig.dev.json
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\bin\Debug\net5.0\EventsWithDelegates.dll
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\bin\Debug\net5.0\EventsWithDelegates.pdb
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.csproj.AssemblyReference.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.AssemblyInfoInputs.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.AssemblyInfo.cs
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.dll
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\refint\EventsWithDelegates.dll
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.pdb
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\EventsWithDelegates.genruntimeconfig.cache
+C:\Users\Lukas Songulija\source\repos\DelegatesAndEvents\EventsWithDelegates\obj\Debug\net5.0\ref\EventsWithDelegates.dll
